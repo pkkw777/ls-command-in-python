@@ -1,4 +1,4 @@
-# ls-command-in-python
+# Linux-ls-command-inPython
 
 A program that works like the ls command.
 Parameters can be given in any order.
